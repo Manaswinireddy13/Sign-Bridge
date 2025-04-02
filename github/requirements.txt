@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+tensorflow
+cvzone
+numpy
+gtts
+deep-translator
+mediapipe
+streamlit-webrtc
+aioice
+av
+opencv-python
